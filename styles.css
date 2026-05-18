@@ -507,7 +507,7 @@ h1 {
 
 /* Referência da Vaga */
 .vaga-ref {
-    font-size: 13px;
+    font-size: 20px;
     color: #60a5fa;
     text-transform: uppercase;
     margin-bottom: 18px;
@@ -525,7 +525,7 @@ h1 {
 
 /* Título da Vaga */
 .vaga-titulo {
-    font-size: 1.55em;
+    font-size: 18px;
     font-weight: 700;
     margin-bottom: 14px;
     color: #f1f5f9;
@@ -534,7 +534,7 @@ h1 {
 
 /* Valor/Remuneração */
 .vaga-valor {
-    font-size: 1.15em;
+    font-size: 16px;
     color: #cbd5e1;
     margin-bottom: 20px;
     font-weight: 700;
